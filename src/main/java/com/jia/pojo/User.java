@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * @author jiachuixun
  * @date 2020-05-05 16:42
- * 取消了lombok。
+ * 取消了lombok
  */
 @Component
 public class User implements Serializable {
